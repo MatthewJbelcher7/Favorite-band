@@ -3,3 +3,24 @@
   float: right;
   background-color: orangered;
 }
+
+.Center {
+  font-size: 100px;
+  color: purple;
+  font-family: fantasy;
+}
+
+.CD {
+  float: left;
+  max-width: 50%;
+  height: Auto;
+}
+
+.Tours {
+  max-width: 85%;
+  height: auto;
+}
+
+body {
+  background-color: rgb(137, 132, 132);
+}
